@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DrrSABS
+- 👀 I’m interested in data analysis and enhancing my knowledge on coding
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on Demographic data analysis, medical data visualizer
+- 📫 Reach me on sbastineenejoh@gmail.com
